@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"name": "ProjectIA",
+			"path": "."
+		},
+		{
+			"name": "C++ Classes",
+			"path": "./Source"
+		},
+		{
+			"name": "UE4",
+			"path": "/Users/Shared/Epic Games/UE_4.26"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off"
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp",
+			"vadimcn.vscode-lldb",
+			"ms-vscode.mono-debug"
+		]
+	}
+}
